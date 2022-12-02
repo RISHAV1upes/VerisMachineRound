@@ -1,0 +1,12 @@
+form{
+    margin-left:25px;
+}
+form label{
+    font-size:20px;
+}
+form .input{
+    width:75%;
+}
+.form-group,button{
+    margin-bottom:10px;
+}

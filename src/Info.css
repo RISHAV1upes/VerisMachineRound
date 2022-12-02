@@ -1,0 +1,30 @@
+.info {
+  padding-left: 25px;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.info p {
+  margin-bottom: 0.5rem;
+  color: grey;
+  font-size: 20px;
+}
+
+.name {
+  margin-bottom: 0px;
+  font-size: 22px;
+}
+
+@media screen and (max-width: 767px) {
+  .info {
+    border-bottom: 5px solid #f2f2f2;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .info {
+    border-right: 5px solid #f2f2f2;
+  }
+}

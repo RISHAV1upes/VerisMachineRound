@@ -1,0 +1,20 @@
+.alert {
+    border-radius: 10px;
+}
+
+.alert-heading {
+    color: grey;
+}
+
+.alert-heading h4 {
+    font-size: 24px;
+}
+
+.alert-heading p {
+    font-size: 20px;
+
+}
+
+.alert-heading p b {
+    margin-right: 5px;
+}
